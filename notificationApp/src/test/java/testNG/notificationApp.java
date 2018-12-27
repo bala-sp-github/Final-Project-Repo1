@@ -34,7 +34,7 @@ public class notificationApp {
 
   @AfterTest
   public void afterTest() {
-	  driver.close();
+	  //driver.close();
   }
 
 }
