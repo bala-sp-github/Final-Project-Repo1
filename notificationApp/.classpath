@@ -35,12 +35,12 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
-	<classpathentry kind="lib" path="/home/bala/Downloads/selenium-jars/client-combined-3.141.59.jar"/>
-	<classpathentry kind="lib" path="/home/bala/Downloads/selenium-jars/client-combined-3.141.59-sources.jar"/>
-	<classpathentry kind="lib" path="/home/bala/Downloads/selenium-jars/libs/byte-buddy-1.8.15.jar"/>
-	<classpathentry kind="lib" path="/home/bala/Downloads/selenium-jars/libs/commons-exec-1.3.jar"/>
-	<classpathentry kind="lib" path="/home/bala/Downloads/selenium-jars/libs/guava-25.0-jre.jar"/>
-	<classpathentry kind="lib" path="/home/bala/Downloads/selenium-jars/libs/okhttp-3.11.0.jar"/>
-	<classpathentry kind="lib" path="/home/bala/Downloads/selenium-jars/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Downloads/selenium_final_jar/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Downloads/selenium_final_jar/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Downloads/selenium_final_jar/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Downloads/selenium_final_jar/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Downloads/selenium_final_jar/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Downloads/selenium_final_jar/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="/home/edureka/Downloads/selenium_final_jar/libs/okio-1.14.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
