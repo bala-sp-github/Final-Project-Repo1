@@ -27,9 +27,9 @@ public class notificationApp {
   }
   @BeforeTest
   public void beforeTest() {
-	  System.setProperty("webdriver.gecko.driver","/home/bala/Downloads/geckodriver");
+	  System.setProperty("webdriver.gecko.driver","/home/edureka/Downloads/geckodriver");
 	  driver = new FirefoxDriver();
-	  driver.get("http://localhost:8081/notificationapp-1/devices");
+	  driver.get("http://localhost:8090/notificationapp-1/devices");
   }
 
   @AfterTest
